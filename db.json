@@ -1,67 +1,30 @@
 {
-  "menu": [
+  "name": "Andrii",
+  "img": "https://images.unsplash.com/photo-1542270370-694e6a9a1f9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&f=crop&w=1350&q=80",
+  "quizzes": [
     {
-      "id": 1,
-      "name": "Big Mac",
-      "ingredients": {
-        "bun": 2,
-        "beefSize": "10:1",
-        "cheeseName": "cheddar",
-        "cheese": 2,
-        "salt": 2,
-        "pickle": 2,
-        "beef": 2,
-        "lettuce": 28,
-        "pickledOnion": 6,
-        "sous": 20
-      }
-    },
-    {
-      "id": 2,
-      "name": "Big Tasty",
-      "ingredients": {
-        "bun": 2,
-        "beefSize": "3:1",
-        "cheeseName": "emmental",
-        "cheese": 3,
-        "salt": 3,
-        "tomato": 2,
-        "beef": 1,
-        "lettuce": 28,
-        "Onion": 10,
-        "sous": 30
-      }
-    },
-    {
-      "id": 3,
-      "name": "Cheeseburger",
-      "ingredients": {
-        "bun": 2,
-        "beefSize": "10:1",
-        "cheeseName": "cheddar",
-        "cheese": 2,
-        "salt": 2,
-        "pickle": 2,
-        "beef": 2,
-        "pickledOnion": 3,
-        "ketchup": 5,
-        "mustard": 3
-      }
-    },
-    {
-      "id": 4,
-      "name": "hamburger",
-      "ingredients": {
-        "bun": 2,
-        "beefSize": "10:1",
-        "cheeseName": "cheddar",
-        "salt": 2,
-        "pickle": 2,
-        "beef": 2,
-        "pickledOnion": 3,
-        "ketchup": 5,
-        "mustard": 3
-      }
-    }
-  ]
+    "question": "How many Deathly Hallows were in Bard Biddle's tale?",
+    "questionType": "text",
+        "answers": ["8", "3", "7", "4"],
+        "rightAnswer": 1
+  },
+  {
+    "question": "How many horcrux did Tom Raddle create?",
+    "questionType": "text",
+        "answers": ["9", "7", "5", "3"],
+        "rightAnswer": 1
+  },
+  {
+    "question": "Who is the oldest on Harry Potter?",
+    "questionType": "text",
+        "answers": ["Theodore Nott", "Neville Longbottom", "Hermione Granger", "Draco Malfoy"],
+        "rightAnswer": 2
+  },
+  {
+    "question": "Which of the Marauders turned out to be a traitor?",
+    "questionType": "text",
+        "answers": ["Peter Pettigrew", "James potter", "Sirius Black", "Remus Lupine"],
+        "rightAnswer": 2
+  }
+    ]
 }
