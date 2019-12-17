@@ -7,24 +7,6 @@
     "questionType": "text",
         "answers": ["8", "3", "7", "4"],
         "rightAnswer": 1
-  },
-  {
-    "question": "How many horcrux did Tom Raddle create?",
-    "questionType": "text",
-        "answers": ["9", "7", "5", "3"],
-        "rightAnswer": 1
-  },
-  {
-    "question": "Who is the oldest on Harry Potter?",
-    "questionType": "text",
-        "answers": ["Theodore Nott", "Neville Longbottom", "Hermione Granger", "Draco Malfoy"],
-        "rightAnswer": 2
-  },
-  {
-    "question": "Which of the Marauders turned out to be a traitor?",
-    "questionType": "text",
-        "answers": ["Peter Pettigrew", "James potter", "Sirius Black", "Remus Lupine"],
-        "rightAnswer": 2
   }
     ]
 }
