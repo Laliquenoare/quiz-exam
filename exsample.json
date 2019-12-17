@@ -1,0 +1,67 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Big Mac",
+      "ingredients": {
+        "bun": 2,
+        "beefSize": "10:1",
+        "cheeseName": "cheddar",
+        "cheese": 2,
+        "salt": 2,
+        "pickle": 2,
+        "beef": 2,
+        "lettuce": 28,
+        "pickledOnion": 6,
+        "sous": 20
+      }
+    },
+    {
+      "id": 2,
+      "name": "Big Tasty",
+      "ingredients": {
+        "bun": 2,
+        "beefSize": "3:1",
+        "cheeseName": "emmental",
+        "cheese": 3,
+        "salt": 3,
+        "tomato": 2,
+        "beef": 1,
+        "lettuce": 28,
+        "Onion": 10,
+        "sous": 30
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cheeseburger",
+      "ingredients": {
+        "bun": 2,
+        "beefSize": "10:1",
+        "cheeseName": "cheddar",
+        "cheese": 2,
+        "salt": 2,
+        "pickle": 2,
+        "beef": 2,
+        "pickledOnion": 3,
+        "ketchup": 5,
+        "mustard": 3
+      }
+    },
+    {
+      "id": 4,
+      "name": "hamburger",
+      "ingredients": {
+        "bun": 2,
+        "beefSize": "10:1",
+        "cheeseName": "cheddar",
+        "salt": 2,
+        "pickle": 2,
+        "beef": 2,
+        "pickledOnion": 3,
+        "ketchup": 5,
+        "mustard": 3
+      }
+    }
+  ]
+}
