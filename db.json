@@ -16,13 +16,13 @@
       "question":"Who is the oldest on Harry Potter?",
       "questionType":"text",
       "answers":["Theodore Nott","Neville Longbottom","Hermione Granger","Draco Malfoy"],
-      "rightAnswer":2,
+      "rightAnswer":2
     },
     {
       "question":"Which of the Marauders turned out to be a traitor?",
       "questionType":"text",
       "answers":["Peter Pettigrew","James potter","Sirius Black","Remus Lupine"],
-      "rightAnswer":0,
+      "rightAnswer":0
     }
   ]
 }
