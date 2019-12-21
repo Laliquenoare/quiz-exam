@@ -1,28 +1,51 @@
 {
-  "_id":"5dd25dc9ddaa3a0bd87fdfef",
-  "name":"Harry Potter",
-  "img":"https://images.unsplash.com/photo-1542270370-694e6a9a1f9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&f=crop&w=1350&q=80",
-  "quizzes":[
+  "_id": "5dd25dc9ddaa3a0bd87fdfef",
+  "name": "Harry Potter",
+  "img": "https://images.unsplash.com/photo-1542270370-694e6a9a1f9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&f=crop&w=1350&q=80",
+  "quizzes": [
     {
-      "question":"How many Deathly Hallows were in Bard Biddle's tale?",
-      "questionType":"text",
-      "answers":["8","3","7","4"],
-      "rightAnswer":1},
-    {
-      "question":"How many horcrux did Tom Raddle create?",
-      "questionType":"text","answers":["9","7","5","3"],
-      "rightAnswer":1},
-    {
-      "question":"Who is the oldest on Harry Potter?",
-      "questionType":"text",
-      "answers":["Theodore Nott","Neville Longbottom","Hermione Granger","Draco Malfoy"],
-      "rightAnswer":2
+      "question": "How many Deathly Hallows were in Bard Biddle's tale?",
+      "questionType": "text",
+      "answers": [
+        "8",
+        "3",
+        "7",
+        "4"
+      ],
+      "rightAnswer": 1
     },
     {
-      "question":"Which of the Marauders turned out to be a traitor?",
-      "questionType":"text",
-      "answers":["Peter Pettigrew","James potter","Sirius Black","Remus Lupine"],
-      "rightAnswer":0
+      "question": "How many horcrux did Tom Raddle create?",
+      "questionType": "text",
+      "answers": [
+        "9",
+        "7",
+        "5",
+        "3"
+      ],
+      "rightAnswer": 1
+    },
+    {
+      "question": "Who is the oldest on Harry Potter?",
+      "questionType": "text",
+      "answers": [
+        "Theodore Nott",
+        "Neville Longbottom",
+        "Hermione Granger",
+        "Draco Malfoy"
+      ],
+      "rightAnswer": 2
+    },
+    {
+      "question": "Which of the Marauders turned out to be a traitor?",
+      "questionType": "text",
+      "answers": [
+        "Peter Pettigrew",
+        "James potter",
+        "Sirius Black",
+        "Remus Lupine"
+      ],
+      "rightAnswer": 0
     }
   ]
 }
