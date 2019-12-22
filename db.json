@@ -1,5 +1,6 @@
 {
-  "id":"5dd25dc9ddaa3a0bd87fdfef",
+  "name": "Harry Potter",
+	"img": "https://images.unsplash.com/photo-1542270370-694e6a9a1f9e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&f=crop&w=1350&q=80",
   "quizzes": [
     {
       "question": "How many Deathly Hallows were in Bard Biddle's tale?",
